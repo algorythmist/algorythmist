@@ -4,7 +4,7 @@ I am a software scientist, applied mathematician, and physics enthusiast. My pas
 
 ## Medium Stories
 
-[![Medium](https://github-readme-medium.vercel.app/?username=algorythmist)](https://medium.com/@algorythmist)
+[![Medium](https://github-readme-medium.vercel.app/?username=algorythmist&limit=6)](https://medium.com/@algorythmist)
 
 
 <!--
