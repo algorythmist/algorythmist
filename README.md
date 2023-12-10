@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Medium](https://github-read-medium.vercel.app/latest?username=algorythmist&limit=6)
+[![Medium](https://github-readme-medium.vercel.app/?username=algorythmist)](https://medium.com/@algorythmist)
 
 <!--
 **algorythmist/algorythmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
