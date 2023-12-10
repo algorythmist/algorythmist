@@ -1,6 +1,11 @@
-### Hi there 👋
+## About me
+
+I am a software scientist, applied mathematician, and physics enthusiast. My passion is to develop solutions at the intersection of software and mathematics.
+
+## Medium Stories
 
 [![Medium](https://github-readme-medium.vercel.app/?username=algorythmist)](https://medium.com/@algorythmist)
+
 
 <!--
 **algorythmist/algorythmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
