@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-read-medium.vercel.app/?username=algorythmist
+![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=algorythmist&limit=6&theme=nord)
 
 <!--
 **algorythmist/algorythmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
